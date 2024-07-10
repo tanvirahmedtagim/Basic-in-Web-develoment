@@ -314,3 +314,143 @@ body {
 }
 
 /** My inspiration section ends here  */
+
+/** My current target section starts here  */
+
+.my-current-target-container {
+  width: 1140px;
+  height: 462px;
+  margin: 0 auto;
+  margin-bottom: 111px;
+  /* border: 2px solid red; */
+}
+.current-target-text {
+  width: 946px;
+  height: 115px;
+  margin: 0 auto;
+  /* border: 2px solid green; */
+}
+.current-target-text h1 {
+  color: rgb(13, 19, 33);
+  margin-bottom: 24px;
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+}
+.current-target-text p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.current-target-sub-section {
+  width: 1140px;
+  height: 299px;
+  margin-top: 48px;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+
+  /* border: 2px solid orange; */
+}
+
+.current-target-sub-section .first-section {
+  width: 364px;
+  height: 299px;
+  padding: 40px;
+  /* border: 2px solid gray; */
+  border-radius: 16px;
+  background-color: rgba(255, 76, 30, 0.05);
+}
+.first-section h1 {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  text-align: left;
+  margin-top: 24px;
+}
+.first-section p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+.first-section a {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 700;
+  /* border: 2px solid yellowgreen; */
+  text-align: left;
+  text-decoration-line: underline;
+}
+
+.current-target-sub-section .second-section {
+  width: 364px;
+  height: 299px;
+  padding: 40px;
+  border-radius: 16px;
+  background-color: rgba(0, 76, 232, 0.05);
+  /* border: 2px solid aqua; */
+}
+.second-section h1 {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  text-align: left;
+  margin-top: 24px;
+}
+.second-section p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+.second-section a {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 700;
+
+  /* border: 2px solid yellowgreen; */
+  text-align: left;
+  text-decoration-line: underline;
+}
+
+.current-target-sub-section .third-section {
+  width: 364px;
+  height: 299px;
+  padding: 40px;
+  border-radius: 16px;
+  background-color: rgba(255, 223, 0, 0.05);
+  /* border: 2px solid green; */
+}
+.third-section h1 {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  text-align: left;
+  margin-top: 24px;
+}
+.third-section p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+.third-section a {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 700;
+
+  /* border: 2px solid yellowgreen; */
+  text-align: left;
+  text-decoration-line: underline;
+}
+
+/** My current target section ends here  */
