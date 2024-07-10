@@ -463,9 +463,10 @@ body {
   margin: 0 auto;
   padding: 64px 48px 64px 48px;
   border-radius: 16px;
- background-image: url("../assets/handshake.jpg");
-  background-size: 1140px 314px;
+  background-image: url("../assets/handshake.jpg");
   background-repeat: no-repeat;
+  background-size: 1140px 314px;
+
   /* border: 2px solid red; */
   margin-bottom: 79px;
 }
