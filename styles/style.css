@@ -16,8 +16,6 @@ body {
   height: 652px;
   background-image: url("../assets/Hero-bg.png");
   margin-bottom: 74px;
-
- 
 }
 .banner-section {
   width: 998px;
@@ -58,3 +56,211 @@ body {
 }
 
 /** banner section ends here  */
+
+/** why web development starts here  */
+.why-web-deb-container {
+  width: 1140px;
+  height: 1395px;
+  margin: 0 auto;
+  padding: 80px 97px 80px 97px;
+  margin-bottom: 88px;
+  /* border: 3px solid red; */
+}
+.title-section {
+  width: 852px;
+  height: 115px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 24px;
+}
+.title-section h1 {
+  color: rgb(13, 19, 33);
+  font-size: 32px;
+  font-weight: 800;
+  /* text-align: center; */
+}
+.title-section p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+}
+
+.first-sub-section {
+  width: 946px;
+  height: 336px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 48px;
+  margin-top: 48px;
+
+  /* border: 2px solid red; */
+}
+.first-sub-section .left-side {
+  width: 477px;
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  /* border: 2px solid yellow; */
+}
+.first-sub-section .left-side h1 {
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+}
+.first-sub-section .left-side p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+  text-align: left;
+}
+.first-sub-section .right-side img {
+  align-items: flex-start;
+  width: 274.17px;
+  height: 240px;
+  /* border: 2px solid green; */
+}
+.btn2 {
+  width: 150px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  box-sizing: border-box;
+  border: 1px solid rgb(13, 19, 33);
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  margin: 16px 0px;
+  /* border: 2px solid green; */
+}
+
+.second-sub-section {
+  width: 946px;
+  height: 336px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 32px;
+  padding: 48px;
+  margin-top: 32px;
+
+  /* border: 2px solid red; */
+}
+.second-sub-section .right-side {
+  width: 477px;
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  /* border: 2px solid yellow; */
+}
+.second-sub-section .right-side h1 {
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+}
+.second-sub-section .right-side p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+  text-align: left;
+}
+
+.second-sub-section .left-side img {
+  align-items: flex-start;
+  width: 274.17px;
+  height: 240px;
+  /* border: 2px solid green; */
+  width: 240px;
+  height: 240px;
+}
+
+.btn2 {
+  width: 150px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  box-sizing: border-box;
+  border: 1px solid rgb(13, 19, 33);
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  margin: 16px 0px;
+  /* border: 2px solid green; */
+}
+
+
+
+.third-sub-section {
+  width: 946px;
+  height: 336px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 48px;
+  margin-top: 48px;
+
+  /* border: 2px solid red; */
+}
+.third-sub-section .left-side {
+  width: 477px;
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  /* border: 2px solid yellow; */
+}
+.third-sub-section .left-side h1 {
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+}
+.third-sub-section .left-side p {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  opacity: 0.7;
+  text-align: left;
+}
+.third-sub-section .right-side img {
+  align-items: flex-start;
+  width: 274.17px;
+  height: 240px;
+  /* border: 2px solid green; */
+}
+.btn2 {
+  width: 150px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  box-sizing: border-box;
+  border: 1px solid rgb(13, 19, 33);
+  opacity: 0.7;
+  color: rgb(13, 19, 33);
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  margin: 16px 0px;
+  /* border: 2px solid green; */
+}
+/** why web development ends here  */
